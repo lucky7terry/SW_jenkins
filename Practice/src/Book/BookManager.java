@@ -19,4 +19,8 @@ public class BookManager {
 		System.out.println("도서 관리 프로그램이 실행되었습니다.");
 	}
 
+	public void removeBook(String title) {
+		return ;
+	}
+
 }
